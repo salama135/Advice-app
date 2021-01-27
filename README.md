@@ -1,3 +1,3 @@
 # Advice-app
 
-# A simple quora like advice app made using flutter and MongoDB, Express & NodeJs
+# A simple quora like advice app made using flutter, MongoDB, Express & NodeJs
